@@ -1,4 +1,4 @@
-### Hello there, I'm [Thariq!](https://thariqirf.github.io) 👋
+### Hello there, I'm Thariq! 👋
 
 - 🏫 I’m currently an undergraduate student at Department of Urban and Regional Planning, Diponegoro University.
 - 🌱 I’m currently learning JavaScript and Python.
